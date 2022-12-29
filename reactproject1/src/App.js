@@ -6,6 +6,8 @@ function App() {
 
     let greeting = '';
 
+    
+    
     const cssStyle = {};
 
     if (currDate >= 1 && currDate < 12) {
